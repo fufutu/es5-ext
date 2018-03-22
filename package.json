@@ -31,7 +31,7 @@
     "next-tick": "1"
   },
   "devDependencies": {
-    "eslint": "^4.15",
+    "eslint": "^4.19.1",
     "eslint-config-medikoo-es5": "^1.4.8",
     "tad": "~0.2.7"
   },
